@@ -27,11 +27,11 @@ Shoot red squares for 1 point.
 
 Collect yellow squares for 1 point.
 
-Collect the cyan square to upgrade to a penetrating shot.
+Collect the small cyan square to upgrade to a penetrating shot.
 
 You can only shoot to the right. When red squares surround you from behind,
 you must either dodge them to get back to the left side of the screen,
-or touch the cyan square to teleport across the screen. The teleporter always
+or touch the large cyan square to teleport across the screen. The teleporter
 returns you to the start position, but it does not ensure that your destination
 is safe, and the teleporter takes a few seconds to recharge after it has been
 used.
