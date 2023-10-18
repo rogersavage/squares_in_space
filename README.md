@@ -1,6 +1,8 @@
 # squares_in_space
 Javascript canvas shooter game
 
+Play in browser at https://www.aaronsavage.net/squaresinspace/game.html
+
 This game was created as a learning exercise. I wanted to become more familiar
 with Javascript, and to experiment with object-oriented techniques including
 message passing and dependency injection. For this reason, the code is
