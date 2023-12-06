@@ -1323,7 +1323,7 @@ class Sound {
 	}
 
 	static play(sound) {
-		if(GameSession.playSound == false) return;
+		if(GameSession.playSound != true) return;
 		this[sound][this[sound].count].play();
 		this[sound].count++;
 		if(this[sound].count == 8)
